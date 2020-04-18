@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"JaiHoSales.Orders"}],"uuid":"20a0e1aff3cc47e78a4a69d45964c847"}
